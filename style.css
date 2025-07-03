@@ -4,15 +4,12 @@ body {
   font-family: serif;
   line-height: 1.6;
   margin: 200px;
-  
+  background-color: light blue;
 }
 
-p3a {
-  background-color: #0000ff80;
-}
 
 h1 {
-  color: #240;
+  background-color: green;
 }
 
 p {
