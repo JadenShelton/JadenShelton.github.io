@@ -1,1 +1,18 @@
+/* style.css */
+
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+/* You can add more CSS rules to style your elements */
 
