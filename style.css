@@ -10,14 +10,14 @@ body {
 
 h1 {
   text-align: center;
-  background-color: green;
+  background-color: rgba(34, 139, 34, 0.6);
   opacity: 0.6;
 }
 
 p {
   text-align: center;
   margin-bottom: 15px;
-  background-color: light blue;
+  background-color: rgba(173, 216, 230, 0.6);
 }
 
 /* You can add more CSS rules to style your elements */
