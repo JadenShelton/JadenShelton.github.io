@@ -1,21 +1,23 @@
 /* style.css */
 
 body {
-  font-family: serif;
+  font-family: sans-serif;
   line-height: 1.6;
-  margin: 200px;
-  background-color: light blue;
+  margin: 20px;
+  
 }
 
 
 h1 {
   text-align: center;
   background-color: green;
+  opacity: 0.6;
 }
 
 p {
   text-align: center;
   margin-bottom: 15px;
+  background-color: light blue;
 }
 
 /* You can add more CSS rules to style your elements */
